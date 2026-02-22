@@ -143,7 +143,7 @@ Add your YouTube or Google Drive demo link here.
 
 ## 👨‍💻 Author
 
-Kiran P  
+M SANTHOSH  
 Full Stack MERN Developer
 
 ---
