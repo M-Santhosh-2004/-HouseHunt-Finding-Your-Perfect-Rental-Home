@@ -84,8 +84,7 @@ HouseHunt-Finding-Your-Perfect-Rental-Home/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-https://github.com/kiranp1674/HouseHunt-Finding-Your-Perfect-Rental-Home.git
-
+https://github.com/M-Santhosh-2004/-HouseHunt-Finding-Your-Perfect-Rental-Home
 
 ---
 
